@@ -1,0 +1,15 @@
+.bug-summary {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #f9f9f9;
+}
+
+.bug-description {
+  margin: 5px 0;
+}
+
+.bug-meta span {
+  margin-right: 10px;
+  font-size: 0.9em;
+}

@@ -1,0 +1,46 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "IssueTracker for tracking software bugs during the software development life cycle.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-dev": "nodemon -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/all-coursework-ErinVinasRanken/FinalProject.git"
+  },
+  "keywords": [
+    "Issue",
+    "Tracker",
+    "Erin",
+    "Vinas"
+  ],
+  "author": "Erin Vinas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/all-coursework-ErinVinasRanken/FinalProject/issues"
+  },
+  "homepage": "https://github.com/all-coursework-ErinVinasRanken/FinalProject#readme",
+  "dependencies": {
+    "@merlin4/express-auth": "^0.0.5",
+    "bcrypt": "^5.1.1",
+    "bootstrap": "^5.3.3",
+    "build": "^0.1.4",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "debug": "^4.3.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.9.0",
+    "nanoid": "^5.0.7",
+    "nodemon": "^3.1.4",
+    "react-icons": "^5.4.0",
+    "react-router-dom": "^6.28.0"
+  }
+}

@@ -1,0 +1,25 @@
+.user-editor {
+  padding: 20px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+input.form-control {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 8px 15px;
+  font-size: 16px;
+}
+
+.btn-secondary {
+  margin-left: 10px;
+}

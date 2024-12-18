@@ -1,0 +1,23 @@
+.user-list-container {
+  padding: 20px;
+}
+
+.user-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-summary {
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-top: 10px;
+}

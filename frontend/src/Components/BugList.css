@@ -1,0 +1,8 @@
+.bug-list-container {
+  padding: 20px;
+}
+
+.bug-list {
+  list-style-type: none;
+  padding: 0;
+}

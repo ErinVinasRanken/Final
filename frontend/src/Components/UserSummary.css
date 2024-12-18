@@ -1,0 +1,15 @@
+.user-summary {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #f9f9f9;
+}
+
+.user-description {
+  margin: 5px 0;
+}
+
+.user-meta span {
+  margin-right: 10px;
+  font-size: 0.9em;
+}
